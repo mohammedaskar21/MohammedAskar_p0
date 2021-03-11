@@ -1,0 +1,16 @@
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\bin\Debug\net5.0\fizzB_w2.exe
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\bin\Debug\net5.0\fizzB_w2.deps.json
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\bin\Debug\net5.0\fizzB_w2.runtimeconfig.json
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\bin\Debug\net5.0\fizzB_w2.runtimeconfig.dev.json
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\bin\Debug\net5.0\fizzB_w2.dll
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\bin\Debug\net5.0\ref\fizzB_w2.dll
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\bin\Debug\net5.0\fizzB_w2.pdb
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\obj\Debug\net5.0\fizzB_w2.csprojAssemblyReference.cache
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\obj\Debug\net5.0\fizzB_w2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\obj\Debug\net5.0\fizzB_w2.AssemblyInfoInputs.cache
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\obj\Debug\net5.0\fizzB_w2.AssemblyInfo.cs
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\obj\Debug\net5.0\fizzB_w2.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\obj\Debug\net5.0\fizzB_w2.dll
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\obj\Debug\net5.0\ref\fizzB_w2.dll
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\obj\Debug\net5.0\fizzB_w2.pdb
+C:\Users\MOHAMMED\revature\fizzbuzz_w2\fizzB_w2\obj\Debug\net5.0\fizzB_w2.genruntimeconfig.cache
